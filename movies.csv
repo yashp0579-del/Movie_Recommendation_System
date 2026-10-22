@@ -1,0 +1,201 @@
+title,year,genre,mood,language,rating,duration,director
+The Shawshank Redemption,1994,Drama,Inspired|Thoughtful,English,9.3,142,Frank Darabont
+The Godfather,1972,Crime|Drama,Thoughtful,English,9.2,175,Francis Ford Coppola
+The Dark Knight,2008,Action|Crime,Excited,English,9.0,152,Christopher Nolan
+Inception,2010,Sci-Fi|Thriller,Excited|Thoughtful,English,8.8,148,Christopher Nolan
+Interstellar,2014,Sci-Fi|Drama,Thoughtful|Inspired,English,8.7,169,Christopher Nolan
+Forrest Gump,1994,Drama|Romance,Inspired|Happy,English,8.8,142,Robert Zemeckis
+Pulp Fiction,1994,Crime|Thriller,Excited,English,8.9,154,Quentin Tarantino
+Fight Club,1999,Drama|Thriller,Thoughtful,English,8.8,139,David Fincher
+The Matrix,1999,Sci-Fi|Action,Excited,English,8.7,136,Lana Wachowski
+Gladiator,2000,Action|Drama,Excited|Inspired,English,8.5,155,Ridley Scott
+Titanic,1997,Romance|Drama,Romantic|Sad,English,7.9,194,James Cameron
+Avatar,2009,Sci-Fi|Adventure,Excited,English,7.9,162,James Cameron
+Jurassic Park,1993,Adventure|Sci-Fi,Excited,English,8.2,127,Steven Spielberg
+Back to the Future,1985,Sci-Fi|Comedy,Happy,English,8.5,116,Robert Zemeckis
+The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy|Adventure,Excited,English,8.9,178,Peter Jackson
+Harry Potter and the Sorcerer's Stone,2001,Fantasy|Adventure,Happy|Relaxed,English,7.6,152,Chris Columbus
+Toy Story,1995,Animation|Comedy,Happy,English,8.3,81,John Lasseter
+The Lion King,1994,Animation|Drama,Happy|Sad,English,8.5,88,Roger Allers
+Finding Nemo,2003,Animation|Adventure,Happy|Relaxed,English,8.2,100,Andrew Stanton
+Up,2009,Animation|Adventure,Happy|Sad,English,8.3,96,Pete Docter
+Inside Out,2015,Animation|Comedy,Happy|Thoughtful,English,8.1,95,Pete Docter
+Coco,2017,Animation|Fantasy,Happy|Sad,English,8.4,105,Lee Unkrich
+WALL-E,2008,Animation|Sci-Fi,Relaxed|Romantic,English,8.4,98,Andrew Stanton
+Shrek,2001,Animation|Comedy,Happy,English,7.9,90,Andrew Adamson
+The Incredibles,2004,Animation|Action,Happy|Excited,English,8.0,115,Brad Bird
+Spider-Man: Into the Spider-Verse,2018,Animation|Action,Excited|Happy,English,8.4,117,Bob Persichetti
+The Avengers,2012,Action|Sci-Fi,Excited,English,8.0,143,Joss Whedon
+Avengers: Endgame,2019,Action|Sci-Fi,Excited|Sad,English,8.4,181,Anthony Russo
+Iron Man,2008,Action|Sci-Fi,Excited,English,7.9,126,Jon Favreau
+Black Panther,2018,Action|Adventure,Excited|Inspired,English,7.3,134,Ryan Coogler
+Guardians of the Galaxy,2014,Action|Comedy,Happy|Excited,English,8.0,121,James Gunn
+Joker,2019,Crime|Drama,Thoughtful|Sad,English,8.4,122,Todd Phillips
+Mad Max: Fury Road,2015,Action|Adventure,Excited,English,8.1,120,George Miller
+John Wick,2014,Action|Thriller,Excited,English,7.4,101,Chad Stahelski
+Die Hard,1988,Action|Thriller,Excited,English,8.2,132,John McTiernan
+Mission: Impossible - Fallout,2018,Action|Thriller,Excited,English,7.7,147,Christopher McQuarrie
+Skyfall,2012,Action|Thriller,Excited,English,7.8,143,Sam Mendes
+Casino Royale,2006,Action|Thriller,Excited,English,8.0,144,Martin Campbell
+The Bourne Identity,2002,Action|Thriller,Excited,English,7.9,119,Doug Liman
+Top Gun: Maverick,2022,Action|Drama,Excited|Inspired,English,8.2,130,Joseph Kosinski
+Dune,2021,Sci-Fi|Adventure,Excited|Thoughtful,English,8.0,155,Denis Villeneuve
+Blade Runner 2049,2017,Sci-Fi|Mystery,Thoughtful,English,8.0,164,Denis Villeneuve
+Arrival,2016,Sci-Fi|Drama,Thoughtful|Sad,English,7.9,116,Denis Villeneuve
+The Martian,2015,Sci-Fi|Adventure,Inspired|Happy,English,8.0,144,Ridley Scott
+Gravity,2013,Sci-Fi|Thriller,Excited,English,7.7,91,Alfonso Cuarón
+Star Wars: Episode IV - A New Hope,1977,Sci-Fi|Adventure,Excited,English,8.6,121,George Lucas
+E.T. the Extra-Terrestrial,1982,Sci-Fi|Adventure,Happy|Sad,English,7.9,115,Steven Spielberg
+Terminator 2: Judgment Day,1991,Sci-Fi|Action,Excited,English,8.6,137,James Cameron
+Alien,1979,Sci-Fi|Horror,Scared,English,8.5,117,Ridley Scott
+The Silence of the Lambs,1991,Thriller|Crime,Scared|Thoughtful,English,8.6,118,Jonathan Demme
+Se7en,1995,Crime|Mystery,Thoughtful|Scared,English,8.6,127,David Fincher
+Shutter Island,2010,Mystery|Thriller,Thoughtful,English,8.2,138,Martin Scorsese
+Gone Girl,2014,Mystery|Thriller,Thoughtful,English,8.1,149,David Fincher
+Prisoners,2013,Thriller|Crime,Thoughtful,English,8.1,153,Denis Villeneuve
+Knives Out,2019,Mystery|Comedy,Happy|Excited,English,7.9,130,Rian Johnson
+The Prestige,2006,Mystery|Thriller,Thoughtful,English,8.5,130,Christopher Nolan
+Memento,2000,Mystery|Thriller,Thoughtful,English,8.4,113,Christopher Nolan
+The Sixth Sense,1999,Horror|Mystery,Scared|Thoughtful,English,8.2,107,M. Night Shyamalan
+The Conjuring,2013,Horror,Scared,English,7.5,112,James Wan
+Get Out,2017,Horror|Thriller,Scared|Thoughtful,English,7.7,104,Jordan Peele
+A Quiet Place,2018,Horror|Sci-Fi,Scared,English,7.5,90,John Krasinski
+Hereditary,2018,Horror,Scared,English,7.3,127,Ari Aster
+The Shining,1980,Horror,Scared,English,8.4,146,Stanley Kubrick
+Psycho,1960,Horror|Thriller,Scared,English,8.5,109,Alfred Hitchcock
+Insidious,2010,Horror,Scared,English,6.8,103,James Wan
+It,2017,Horror,Scared,English,7.3,135,Andy Muschietti
+The Notebook,2004,Romance|Drama,Romantic|Sad,English,7.8,123,Nick Cassavetes
+La La Land,2016,Romance|Drama,Romantic|Happy,English,8.0,128,Damien Chazelle
+Pride & Prejudice,2005,Romance|Drama,Romantic|Relaxed,English,7.8,129,Joe Wright
+Before Sunrise,1995,Romance|Drama,Romantic|Relaxed,English,8.1,101,Richard Linklater
+Crazy Rich Asians,2018,Romance|Comedy,Romantic|Happy,English,6.9,120,Jon M. Chu
+About Time,2013,Romance|Comedy,Romantic|Happy,English,7.8,123,Richard Curtis
+Notting Hill,1999,Romance|Comedy,Romantic|Happy,English,7.2,124,Roger Michell
+Love Actually,2003,Romance|Comedy,Romantic|Happy,English,7.6,135,Richard Curtis
+Eternal Sunshine of the Spotless Mind,2004,Romance|Drama,Romantic|Thoughtful,English,8.3,108,Michel Gondry
+The Fault in Our Stars,2014,Romance|Drama,Sad|Romantic,English,7.7,126,Josh Boone
+Me Before You,2016,Romance|Drama,Sad|Romantic,English,7.4,106,Thea Sharrock
+Superbad,2007,Comedy,Happy,English,7.6,113,Greg Mottola
+The Hangover,2009,Comedy,Happy,English,7.7,100,Todd Phillips
+Home Alone,1990,Comedy|Family,Happy,English,7.7,103,Chris Columbus
+Mrs. Doubtfire,1993,Comedy|Family,Happy,English,7.1,125,Chris Columbus
+The Truman Show,1998,Comedy|Drama,Thoughtful,English,8.2,103,Peter Weir
+Groundhog Day,1993,Comedy|Romance,Happy,English,8.0,101,Harold Ramis
+Ferris Bueller's Day Off,1986,Comedy,Happy,English,7.8,103,John Hughes
+Bridesmaids,2011,Comedy,Happy,English,6.8,125,Paul Feig
+Mean Girls,2004,Comedy,Happy,English,7.1,97,Mark Waters
+The Grand Budapest Hotel,2014,Comedy|Adventure,Happy|Relaxed,English,8.1,99,Wes Anderson
+Schindler's List,1993,Drama|War,Sad|Thoughtful,English,9.0,195,Steven Spielberg
+Saving Private Ryan,1998,War|Drama,Sad|Excited,English,8.6,169,Steven Spielberg
+1917,2019,War|Drama,Excited|Thoughtful,English,8.2,119,Sam Mendes
+Dunkirk,2017,War|Drama,Excited|Thoughtful,English,7.8,106,Christopher Nolan
+Oppenheimer,2023,Biography|Drama,Thoughtful,English,8.3,180,Christopher Nolan
+The Social Network,2010,Biography|Drama,Thoughtful|Inspired,English,7.8,120,David Fincher
+A Beautiful Mind,2001,Biography|Drama,Inspired|Thoughtful,English,8.2,135,Ron Howard
+The Pursuit of Happyness,2006,Biography|Drama,Inspired|Sad,English,8.0,117,Gabriele Muccino
+Rocky,1976,Drama|Sports,Inspired,English,8.1,119,John G. Avildsen
+Whiplash,2014,Drama|Music,Inspired|Thoughtful,English,8.5,106,Damien Chazelle
+The Green Mile,1999,Drama|Fantasy,Sad|Thoughtful,English,8.6,189,Frank Darabont
+Good Will Hunting,1997,Drama,Inspired|Thoughtful,English,8.3,126,Gus Van Sant
+Dead Poets Society,1989,Drama,Inspired|Sad,English,8.1,128,Peter Weir
+12 Angry Men,1957,Drama|Crime,Thoughtful,English,9.0,96,Sidney Lumet
+Goodfellas,1990,Crime|Biography,Excited,English,8.7,145,Martin Scorsese
+The Departed,2006,Crime|Thriller,Excited,English,8.5,151,Martin Scorsese
+The Wolf of Wall Street,2013,Comedy|Crime,Excited,English,8.2,180,Martin Scorsese
+Catch Me If You Can,2002,Crime|Comedy,Happy|Excited,English,8.1,141,Steven Spielberg
+Ocean's Eleven,2001,Crime|Comedy,Happy|Excited,English,7.7,116,Steven Soderbergh
+Django Unchained,2012,Western|Action,Excited,English,8.4,165,Quentin Tarantino
+Inglourious Basterds,2009,War|Action,Excited,English,8.4,153,Quentin Tarantino
+Kill Bill: Vol. 1,2003,Action|Crime,Excited,English,8.2,111,Quentin Tarantino
+Everything Everywhere All at Once,2022,Sci-Fi|Comedy,Happy|Thoughtful,English,7.8,139,Daniel Kwan
+Soul,2020,Animation|Fantasy,Thoughtful|Relaxed,English,8.0,100,Pete Docter
+Moana,2016,Animation|Adventure,Happy|Relaxed,English,7.6,107,Ron Clements
+Frozen,2013,Animation|Fantasy,Happy,English,7.4,102,Chris Buck
+Kung Fu Panda,2008,Animation|Action,Happy,English,7.6,92,Mark Osborne
+How to Train Your Dragon,2010,Animation|Adventure,Happy|Excited,English,8.1,98,Chris Sanders
+Ratatouille,2007,Animation|Comedy,Happy|Relaxed,English,8.1,111,Brad Bird
+Spirited Away,2001,Animation|Fantasy,Relaxed|Thoughtful,Japanese,8.6,125,Hayao Miyazaki
+Your Name,2016,Animation|Romance,Romantic|Sad,Japanese,8.4,106,Makoto Shinkai
+My Neighbor Totoro,1988,Animation|Fantasy,Relaxed|Happy,Japanese,8.1,86,Hayao Miyazaki
+Parasite,2019,Thriller|Drama,Thoughtful|Excited,Korean,8.5,132,Bong Joon-ho
+Train to Busan,2016,Horror|Action,Scared|Excited,Korean,7.6,118,Yeon Sang-ho
+Oldboy,2003,Thriller|Mystery,Thoughtful|Excited,Korean,8.3,120,Park Chan-wook
+Life Is Beautiful,1997,Drama|Comedy,Sad|Inspired,Italian,8.6,116,Roberto Benigni
+Amélie,2001,Romance|Comedy,Romantic|Happy,French,8.3,122,Jean-Pierre Jeunet
+The Intouchables,2011,Comedy|Drama,Happy|Inspired,French,8.5,112,Olivier Nakache
+Pan's Labyrinth,2006,Fantasy|Drama,Thoughtful|Scared,Spanish,8.2,118,Guillermo del Toro
+Cinema Paradiso,1988,Drama|Romance,Sad|Romantic,Italian,8.5,155,Giuseppe Tornatore
+Spider-Man: No Way Home,2021,Action|Adventure,Excited,English,8.2,148,Jon Watts
+Barbie,2023,Comedy|Fantasy,Happy,English,6.8,114,Greta Gerwig
+3 Idiots,2009,Comedy|Drama,Happy|Inspired,Hindi,8.4,170,Rajkumar Hirani
+Dangal,2016,Drama|Sports,Inspired,Hindi,8.3,161,Nitesh Tiwari
+Taare Zameen Par,2007,Drama|Family,Sad|Inspired,Hindi,8.3,165,Aamir Khan
+PK,2014,Comedy|Drama,Happy|Thoughtful,Hindi,8.1,153,Rajkumar Hirani
+Lagaan,2001,Drama|Sports,Inspired,Hindi,8.1,224,Ashutosh Gowariker
+Dilwale Dulhania Le Jayenge,1995,Romance|Drama,Romantic|Happy,Hindi,8.0,189,Aditya Chopra
+Kabhi Khushi Kabhie Gham,2001,Drama|Romance,Sad|Romantic,Hindi,7.4,210,Karan Johar
+Kuch Kuch Hota Hai,1998,Romance|Comedy,Romantic|Happy,Hindi,7.5,185,Karan Johar
+Zindagi Na Milegi Dobara,2011,Comedy|Drama,Happy|Relaxed,Hindi,8.2,155,Zoya Akhtar
+Queen,2013,Comedy|Drama,Happy|Inspired,Hindi,8.2,146,Vikas Bahl
+Barfi!,2012,Comedy|Romance,Happy|Romantic,Hindi,8.1,151,Anurag Basu
+Jab We Met,2007,Romance|Comedy,Romantic|Happy,Hindi,7.9,138,Imtiaz Ali
+Rockstar,2011,Romance|Music,Sad|Romantic,Hindi,7.7,159,Imtiaz Ali
+Tamasha,2015,Romance|Drama,Romantic|Thoughtful,Hindi,7.3,139,Imtiaz Ali
+Yeh Jawaani Hai Deewani,2013,Romance|Comedy,Happy|Romantic,Hindi,7.2,160,Ayan Mukerji
+Wake Up Sid,2009,Drama|Romance,Relaxed|Inspired,Hindi,7.6,138,Ayan Mukerji
+Sholay,1975,Action|Adventure,Excited,Hindi,8.1,204,Ramesh Sippy
+Mughal-E-Azam,1960,Romance|Drama,Romantic|Sad,Hindi,8.1,197,K. Asif
+Andhadhun,2018,Thriller|Crime,Excited|Thoughtful,Hindi,8.2,139,Sriram Raghavan
+Drishyam,2015,Thriller|Crime,Thoughtful|Excited,Hindi,8.2,163,Nishikant Kamat
+Kahaani,2012,Thriller|Mystery,Thoughtful,Hindi,8.1,122,Sujoy Ghosh
+Badla,2019,Thriller|Mystery,Thoughtful,Hindi,7.8,118,Sujoy Ghosh
+A Wednesday!,2008,Thriller|Crime,Excited|Thoughtful,Hindi,8.1,104,Neeraj Pandey
+Gangs of Wasseypur,2012,Crime|Action,Excited,Hindi,8.2,321,Anurag Kashyap
+Black Friday,2004,Crime|Drama,Thoughtful,Hindi,8.5,143,Anurag Kashyap
+Udta Punjab,2016,Crime|Drama,Thoughtful,Hindi,7.2,148,Abhishek Chaubey
+Dil Chahta Hai,2001,Comedy|Romance,Happy|Relaxed,Hindi,8.1,183,Farhan Akhtar
+Rang De Basanti,2006,Drama|War,Inspired|Sad,Hindi,8.1,167,Rakeysh Omprakash Mehra
+Swades,2004,Drama,Inspired|Thoughtful,Hindi,8.2,189,Ashutosh Gowariker
+Chak De! India,2007,Drama|Sports,Inspired,Hindi,8.1,153,Shimit Amin
+Bhaag Milkha Bhaag,2013,Biography|Sports,Inspired,Hindi,8.2,186,Rakeysh Omprakash Mehra
+M.S. Dhoni: The Untold Story,2016,Biography|Sports,Inspired,Hindi,7.7,184,Neeraj Pandey
+Super 30,2019,Biography|Drama,Inspired,Hindi,7.9,154,Vikas Bahl
+Gully Boy,2019,Drama|Music,Inspired,Hindi,7.9,153,Zoya Akhtar
+Article 15,2019,Crime|Drama,Thoughtful,Hindi,8.1,130,Anubhav Sinha
+URI: The Surgical Strike,2019,Action|War,Excited|Inspired,Hindi,8.2,138,Aditya Dhar
+Pathaan,2023,Action|Thriller,Excited,Hindi,5.9,146,Siddharth Anand
+Jawan,2023,Action|Thriller,Excited,Hindi,7.0,169,Atlee
+War,2019,Action|Thriller,Excited,Hindi,6.5,156,Siddharth Anand
+Bajrangi Bhaijaan,2015,Drama|Comedy,Happy|Inspired,Hindi,8.1,163,Kabir Khan
+Chennai Express,2013,Comedy|Action,Happy,Hindi,6.0,141,Rohit Shetty
+Golmaal: Fun Unlimited,2006,Comedy,Happy,Hindi,7.2,150,Rohit Shetty
+Hera Pheri,2000,Comedy,Happy,Hindi,8.2,156,Priyadarshan
+Munna Bhai M.B.B.S.,2003,Comedy|Drama,Happy|Inspired,Hindi,8.1,156,Rajkumar Hirani
+Stree,2018,Horror|Comedy,Happy|Scared,Hindi,7.5,128,Amar Kaushik
+Bhool Bhulaiyaa,2007,Horror|Comedy,Happy|Scared,Hindi,7.3,159,Priyadarshan
+Tumbbad,2018,Horror|Fantasy,Scared|Thoughtful,Hindi,8.2,104,Rahi Anil Barve
+Piku,2015,Comedy|Drama,Happy|Relaxed,Hindi,7.6,125,Shoojit Sircar
+Masaan,2015,Drama|Romance,Sad|Thoughtful,Hindi,8.1,109,Neeraj Ghaywan
+The Lunchbox,2013,Romance|Drama,Romantic|Relaxed,Hindi,7.8,104,Ritesh Batra
+Dear Zindagi,2016,Drama,Thoughtful|Relaxed,Hindi,7.3,151,Gauri Shinde
+English Vinglish,2012,Comedy|Drama,Happy|Inspired,Hindi,7.8,134,Gauri Shinde
+Kapoor & Sons,2016,Drama|Family,Sad|Thoughtful,Hindi,7.7,132,Shakun Batra
+Lootera,2013,Romance|Drama,Romantic|Sad,Hindi,7.3,135,Vikramaditya Motwane
+Devdas,2002,Romance|Drama,Sad|Romantic,Hindi,7.5,185,Sanjay Leela Bhansali
+Bajirao Mastani,2015,Romance|War,Romantic|Sad,Hindi,7.2,158,Sanjay Leela Bhansali
+Gangubai Kathiawadi,2022,Biography|Crime,Thoughtful|Inspired,Hindi,7.0,152,Sanjay Leela Bhansali
+Baahubali: The Beginning,2015,Action|Fantasy,Excited,Telugu,8.0,159,S. S. Rajamouli
+Baahubali 2: The Conclusion,2017,Action|Fantasy,Excited,Telugu,8.2,167,S. S. Rajamouli
+RRR,2022,Action|Drama,Excited|Inspired,Telugu,7.8,187,S. S. Rajamouli
+Eega,2012,Fantasy|Comedy,Happy|Excited,Telugu,7.7,134,S. S. Rajamouli
+Pushpa: The Rise,2021,Action|Crime,Excited,Telugu,7.6,179,Sukumar
+Arjun Reddy,2017,Romance|Drama,Romantic|Sad,Telugu,8.1,182,Sandeep Reddy Vanga
+Jersey,2019,Drama|Sports,Inspired|Sad,Telugu,8.5,157,Gowtam Tinnanuri
+Sita Ramam,2022,Romance|War,Romantic|Sad,Telugu,8.5,163,Hanu Raghavapudi
+KGF: Chapter 1,2018,Action|Crime,Excited,Kannada,8.2,156,Prashanth Neel
+KGF: Chapter 2,2022,Action|Crime,Excited,Kannada,8.3,168,Prashanth Neel
+Kantara,2022,Thriller|Fantasy,Excited|Thoughtful,Kannada,8.2,148,Rishab Shetty
+Vikram,2022,Action|Thriller,Excited,Tamil,8.3,174,Lokesh Kanagaraj
+Kaithi,2019,Action|Thriller,Excited,Tamil,8.4,145,Lokesh Kanagaraj
+Vikram Vedha,2017,Action|Thriller,Excited|Thoughtful,Tamil,8.3,147,Pushkar-Gayathri
